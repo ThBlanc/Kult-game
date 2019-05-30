@@ -1,0 +1,60 @@
+{
+    "name": "MainInputSystem",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "ec983268-11f7-480c-9069-68d02fc640fb",
+            "actions": [
+                {
+                    "name": "MoveTo",
+                    "id": "ba0f1a6b-8d7c-4487-a8d2-c0c76e8d6ed1",
+                    "expectedControlLayout": "",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "TakePicture",
+                    "id": "052d193c-3746-49f7-8908-b670dd49e479",
+                    "expectedControlLayout": "",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6d5a8190-475f-4886-b708-fe6132bd6b98",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveTo",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "71dba6a7-c076-47ac-ba53-d8b918c61da2",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TakePicture",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
