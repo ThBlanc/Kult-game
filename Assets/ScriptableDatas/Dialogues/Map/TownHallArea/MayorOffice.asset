@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: MayorOffice
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - "I did my best to appear inconspicuous as I walked in the offices of the town
+    hall, the trick is if you look enough like you have a good reason to be there,
+    people will never question why you\u2019re actually where you are."
+  - "Eventually I managed to make my way to the deputy mayor\u2019s office, besieged
+    by journalists that had stayed to ask for an explanation for the cancelling of
+    the press conference. "
+  - "After a short while I noticed a few security guards escorting him out through
+    a back door, following them I saw them get into a car and drive away straight
+    towards the church.\r\n"
+  - Looks like our dead deputy mayor may have some closer ties to the church than
+    I thought...
+  nextDialogue: {fileID: 0}
+  answerList: []

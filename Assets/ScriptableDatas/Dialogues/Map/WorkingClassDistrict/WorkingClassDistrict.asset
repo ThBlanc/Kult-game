@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: WorkingClassDistrict
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - "Slums, what more is there to say ? Cheap megaplexes crowd the horizon like a
+    forest, but living there ? That\u2019s if you\u2019re lucky. "
+  - "Every time I come here I see at least one person with The Look. An air of total
+    hopelessness, as if they\u2019re just waiting for it all to end\u2026This city
+    is like a beast, it eats people up, take everything they have, and those that
+    survive the process end up here.\r"
+  - Walking in the streets I come across the remains of an anti cult protest, it seems
+    to have been led by teachers, out of all people. But as I walk towards it a short,
+    very skinny woman asks for help nearby.
+  nextDialogue: {fileID: 0}
+  answerList:
+  - content: Help the woman
+    answerType: 0
+    nextDialogue: {fileID: 11400000, guid: d142cbfad940b124d9b5c39e9959f0ea, type: 2}
+  - content: Ignore her and go see the protestors
+    answerType: 0
+    nextDialogue: {fileID: 11400000, guid: d122a7154d2889e49a842cd67b15dd70, type: 2}

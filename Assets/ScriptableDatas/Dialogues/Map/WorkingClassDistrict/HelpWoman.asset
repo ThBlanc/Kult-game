@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: HelpWoman
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - 'I followed the woman and her incoherent rambling through a side alley, something
+    about someone having fainted. I could sense something was wrong about a second
+    before he started running like hell as several men came out from the corner of
+    the alley. '
+  - " Not waiting to find out anything more about them I turned and bolted away, another
+    man was set up behind me to block my exit but I managed to shove him away, don\u2019t
+    ask how I barely remember the details with the adrenaline and all."
+  - " I eventually managed to outrun them after a tense couple of minutes but got
+    lost in the labyrinth of alleys and narrow streets. Must have taken me an hour
+    to get out to my car, I\u2019m never visiting this neighborhood again if I can
+    help it.\r\n"
+  nextDialogue: {fileID: 0}
+  answerList: []

@@ -74,6 +74,11 @@ public class Cultist : MonoBehaviour
         animator.SetTrigger("angry");
     }
 
+    public void PokerFace()
+    {
+        animator.SetTrigger("pokerface");
+    }
+
     public void MoveTo(Vector3 pos)
     {
         targetPosition = pos;

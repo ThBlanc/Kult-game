@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: FinalScene6
+  m_EditorClassIdentifier: 
+  characterName: 1
+  sentenceList:
+  - The citizens should be grateful anyway.
+  - "We'\x19ve invested a lot in the research facilities of the cities \n"
+  - "and they have been enjoying the products of these researches greatly.\r"
+  nextDialogue: {fileID: 0}
+  answerList:
+  - content: Dismissive
+    answerType: 1
+    nextDialogue: {fileID: 11400000, guid: b2e8c8006fe576146a37544908dcff89, type: 2}
+  - content: Cyberbrain Traffic
+    answerType: 0
+    nextDialogue: {fileID: 11400000, guid: b2f5db117afa96c4a92cfc32cae0f722, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: FinalScene2
+  m_EditorClassIdentifier: 
+  characterName: 1
+  sentenceList:
+  - Alright then, you have my attention.
+  - "You\u2019re here to expose me to the world then ? I\u2019m curious to see what
+    you\u2019ll try\u2026"
+  nextDialogue: {fileID: 11400000, guid: 01e870bf66f7d304fbfb9218c0741ef0, type: 2}
+  answerList: []

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - 'Another rainy friday night in this hell hole of a city, I watch the drops hit
+    my window, reflecting the blue neon lights coming from The Church, pale points
+    of blue radiating from the center of town, never to fade away. Another rainy friday
+    night in this hell hole of a city, I watch the drops hit my window, reflecting
+    the blue neon lights coming from The Church, pale points of blue radiating from
+    the center of town, never to fade away. '
+  - "The cult of the Eternal One, our glorious overlords in their grand and gaudy
+    church, they practically own the entire city, hell they funded most of it if my
+    research on the matter is accuracte, not that you\u2019d know about it, the cult
+    members like to keep their identities unknown and their business private.\r"
+  - "This ends tonight, I\u2019ve seen how these people dispose of others as they
+    please, they decide who\u2019s in power, what laws are drafted, voted for and
+    how they are applied, how they stop the police from investigating key members,
+    and you\u2019re sure not going to hear about any of that from the trids, the media
+    is in their pocket too."
+  - "It\u2019s high time someone did something to expose them as the crooks they really
+    are, for someone to tell the people what they deserve to know, and I have the
+    perfect opportunity tonight."
+  - ' I have an old camera with no matrix controlled chips inside, a hacker ready
+    to slice into the major news mainframes when the time is right, and a window to
+    get into the church and surprise the cult leader, Keanu when they do their ritual
+    of ascention. '
+  - "All I need now is concrete evidence, in order to sway the people, something that
+    they won\u2019t be able to ignore or dismiss as circumstancial. \r\n"
+  - "I\u2019ve been tipped off that the cult is doing shady stuff around the city
+    tonight, in preparation for their mysterious ritual, but I don\u2019t know where
+    exactly. I better get going and start looking around town now, there\u2019s only
+    so much time before the ritual is supposed to start\u2026"
+  - "I better be going now, clock is ticking, wish me good luck, and I\u2019ll be
+    back with the truth.\r\nDelilah Conway, signing out.\r"
+  nextDialogue: {fileID: 0}
+  answerList: []

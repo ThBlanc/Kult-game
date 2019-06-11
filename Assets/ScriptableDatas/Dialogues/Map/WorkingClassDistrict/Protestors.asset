@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: Protestors
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - "Something in the woman\u2019s tone dissuaded me to approach her, she hurled an
+    insult to me in the strange local patoi composed of so many different languages
+    that could only be described as \u2018city-speak\u2019, and went on her way.\r"
+  - I then approached the site of the protest, there were only a couple of protesters
+    left at this time of night, and the ground was littered with signs and banners
+    with various slogans, and I took the time to question one of the people about
+    them.
+  - "I learned this was apparently a teachers\u2019 strike, to protest against the
+    recent introduction of the cult\u2019s dogmatic positions in the scientific courses,
+    on the grounds of \u201Ctreating every point of view as equal\u201D. I obtained
+    copies of the official documents as proof.\r"
+  nextDialogue: {fileID: 0}
+  answerList: []

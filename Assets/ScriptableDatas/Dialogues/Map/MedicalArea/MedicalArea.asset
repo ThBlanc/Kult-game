@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: MedicalArea
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - "The research and medical district, home of the brightest brains in our beautiful
+    city, that\u2019s what\u2019s in the brochure anyway...\r\n"
+  - "The true side of this district is one of competition above anything else, the
+    hospitals and labs fighting tooth and nail to get more funding than their neighbors.
+    Sometimes they go to far, and even the cult can\u2019t stop their antics from
+    making news headlines."
+  - "As far as clues go, I\u2019ve heard of a specific lab that was visited by Keanu
+    a few days ago, and a hospital where cult members are often seen, practicing charity,
+    so they say.\r"
+  - "Now, where should I begin here\u2026 Most of the buildings here are tightly locked,
+    and I\u2019m not really tough enough to face off with the security guards they
+    have. I may have another way of proceeding though, I have an old press pass that
+    might get me in one of the labs, not sure if it still works though.\r\n"
+  - "There\u2019s also one of my old college friends who works as a secretary in one
+    of the hospitals, maybe she could let me in\u2026\r\n\r\nWhat to do what to do
+    ?\r"
+  nextDialogue: {fileID: 0}
+  answerList:
+  - content: Go to lab
+    answerType: 0
+    nextDialogue: {fileID: 11400000, guid: 0a8d9a9d5ea42b4458dba13f114228a5, type: 2}
+  - content: Go to hospital
+    answerType: 0
+    nextDialogue: {fileID: 11400000, guid: ccab93bd0be80834fbc1abd55d220b2d, type: 2}

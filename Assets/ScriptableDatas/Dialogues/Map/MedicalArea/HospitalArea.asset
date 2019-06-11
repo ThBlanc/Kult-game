@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb60d80cd02558e449241f61208191f9, type: 3}
+  m_Name: HospitalArea
+  m_EditorClassIdentifier: 
+  characterName: 0
+  sentenceList:
+  - My friend let me in the hospital without problem, and I even had time to ask her
+    a few questions about the supposedly charitable cultists that came and went there.
+  - "Apparently they offered religious service for the sick as well as food and drinks
+    for the patients and their family\u2026 That and they also left suspiciously with
+    red cases."
+  - My friend managed to tip me off when they were leaving and I followed them as
+    silently as I could, they were carrying red containment cases with yellow stickers
+    my friend late identified as symbols marking containers of human organs for transplants
+    and sensitive robotic parts such as spines and cyberbrains.
+  - They must have heard me at some point because they started running away and took
+    off in a van. I did manage to snap a picture off at the last moment though.
+  - "So, there I had it, the cult was stealing organs from hospitals, for what end,
+    I had no idea, for now.\r"
+  nextDialogue: {fileID: 0}
+  answerList: []

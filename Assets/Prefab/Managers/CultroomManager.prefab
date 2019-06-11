@@ -70,7 +70,6 @@ GameObject:
   m_Component:
   - component: {fileID: 9094052554828493915}
   - component: {fileID: 9094052554828493914}
-  - component: {fileID: 1063253834124191160}
   m_Layer: 0
   m_Name: CultroomManager
   m_TagString: Untagged
@@ -106,27 +105,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b932f147b8e8ba64f951013055ff8287, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  finalSceneToLoad: TheEnd
   makeGroupInLove: 0
+  numberOfSecondsBeforeMove: 1
   cultistContainer: {fileID: 0}
   cultRoomExitList:
   - {fileID: 9094052554152456343}
   - {fileID: 9094052554109500246}
---- !u!95 &1063253834124191160
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9094052554828493916}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  mainDialogue: {fileID: 0}
